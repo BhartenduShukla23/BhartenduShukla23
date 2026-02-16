@@ -21,6 +21,8 @@
 - NumPy
 - Scikit-Learn
 - Matplotlib
+- Seaborn
+- PowerBI
 - SQL
 - Git & GitHub
 
