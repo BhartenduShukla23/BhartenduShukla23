@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm <h4>Bhartendu</h4> 👋
 
-<!--
-**BhartenduShukla23/BhartenduShukla23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring AI/ML Engineer  
+📊 Passionate about Data Science & Machine Learning  
+💻 Python | SQL | Machine Learning | Deep Learning  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+🔹 ML Model Projects  
+🔹 Data Analysis Projects  
+🔹 SQL Practice  
+🔹 Python Automation  
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
+- SQL
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
+LinkedIn: (your link)
+Email: (your email)
